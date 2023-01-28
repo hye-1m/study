@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-int N = 10;
+
+#define N 10;
 
 class checkboard
 {
