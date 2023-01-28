@@ -31,7 +31,7 @@ int main()
 
 	int k = 0;
 	bool end = false;
-	while (k < 11 || end == true)
+	while (k < 100 || end == true)
 	{
 		if (k % 2 == 1)
 		{
